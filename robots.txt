@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://luoidatb.github.io/sitemap/sitemap.txt
